@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="We reviewing movies in this bitch!" />
+        <Header title="Jon & Tanuj acquire Criterion" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          The hottest guys you know just got hotter...
         </p>
       </main>
 
